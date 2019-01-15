@@ -1,0 +1,25 @@
+#p3 {
+    font-family: 'Delius Unicase', cursive;
+    font-weight: bold;
+    color: palevioletred;
+    font-size: 60px;
+    letter-spacing: 20px;
+    line-height: 70px
+}
+
+#p1 {
+    color: limegreen;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    font-family: 'Major Mono Display', monospace;
+}
+
+#p2 {
+    font-size: 50px;
+    color: blue;
+    font-style: italic;
+    line-height: 30px;
+    letter-spacing: 3px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
